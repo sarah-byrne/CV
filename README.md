@@ -1,7 +1,7 @@
 ## Sarah Byrne
 
 ### Employment History
-#### 1996 - present  John Lewis Partnership
+#### 1996 - present: &nbsp; John Lewis Partnership
 Some people are surprised by 22 years in 1 company but anyone who has worked at John Lewis won't be.  I've enjoyed job satisfaction from roles in a variety of technology and business areas and, being a Partner, have felt a great sense of belonging, ownership, responsibility and pride.
 
 ##### Web development
@@ -24,7 +24,7 @@ Some people are surprised by 22 years in 1 company but anyone who has worked at 
 ...
 
 ### Education
-#### 1993 - 1996  Bristol University
+#### 1993 - 1996: &nbsp; Bristol University
 BSc Mathematics (2:1)
 
 ### Hobbys
