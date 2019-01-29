@@ -34,5 +34,4 @@ Some people are surprised by 22 years in 1 company but anyone who has worked at 
 BSc Mathematics (2:1)
 
 ### Hobbys
-Live music
-Aqua aerobics
+Live music, theatre, cinema, aqua aerobics
