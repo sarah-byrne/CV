@@ -20,6 +20,7 @@ Omni Channel Customer Ordering (OCCO) was a large programme of changes to re-pla
 * planning the work of my team to optimise flow of output to downsteam teams with conflicting deadlines
 * re-planning after budget cuts
 * business modelling of a complex domain using Sparx Enterprise Architect
+* monitoring the work of 3rd parties, which led to me discovering that they were going against the design to shoehorn poor solutions into systems that cost them less to change.
 
 ###### USA...
 Prior to the Unified Stock Accounting (USA) project, John Lewis had financial systems and stock systems that told very different stories about our stock and profits.  &nbsp; The project implemented new accounting processing to align the financial with the physical. &nbsp; It required changes to every system involved in buying, selling or moving stock and completely new information systems. &nbsp; I was the technical lead for the project.  My role involved:
