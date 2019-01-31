@@ -12,7 +12,7 @@ Learning javascript and react.   Attending Makers Academy in 2019.
 
 ##### Project Management & Solution Design
 ###### OCCO...
-Omni Channel Customer Ordering was a large programme of changes to re-platform and align several customer ordering systems, enabling a more consistent experience for customers using a mixture of selling channels (shop, online, telephone, ...) to buy from John Lewis.  I had several roles on this programme, the most significant being lead of the high-level design team, managing the work of business analysts, solution architects and solution designers.   My challenges and achievements on this programme included:
+Omni Channel Customer Ordering (OCCO) was a large programme of changes to re-platform and align several customer ordering systems, enabling a more consistent experience for customers using a mixture of selling channels (shop, online, telephone, ...) to buy from John Lewis.  I had several roles on this programme, the most significant being lead of the high-level design team, managing the work of business analysts, solution architects and solution designers.   My challenges and achievements on this programme included:
 * chair of the design authority group, facilitating a large meeting of people with conflicting needs / opinions to resolve issues
 * defining the solution design methodology for large programmes, getting it recognised as a discipline within the department and mentoring solution designers
 * solution design across incompatible systems, while minimising customisation of off-the-shelf packages
@@ -49,12 +49,13 @@ After a period of significant growth, the John Lewis IT department now encompass
 * building momentum and breaking apathy
 
 ##### Line management
+As part of our matrix-management model, I line-managed people working in different projects from me.
 
 ##### Tech Council
-I'm a member of John Lewis's tech council, which is a group of people with experience in various development roles who .......
+I'm a member of John Lewis's tech council, which is a group of people with wide-reaching experience in various development roles who support and inspire teams to deliver the best technological solutions practically possible.   It is not a governance body and aims to nurture rather than create red tape.
 
 ##### Tutor
-...
+I was a tutor to trainees learning to code in COBOL / DB2 as part of the graduate scheme.
 
 ### Education
 #### 1993 - 1996: &nbsp; Bristol University
