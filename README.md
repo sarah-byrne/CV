@@ -12,7 +12,7 @@ Learning javascript and react. &nbsp; Attending Makers Academy in 2019.
 
 ##### Project Management & Solution Design
 ###### OCCO...
-Omni Channel Customer Ordering (OCCO) was a large programme of changes to re-platform and align several customer ordering systems, enabling a more consistent experience for customers who shop using a mixture of selling channels (shop, online, app, telephone). &nbsp; I had several roles on this programme, the most significant being lead of the high-level design team, managing the work of business analysts, solution architects and solution designers. &nbsp; My challenges and achievements on this programme included:
+Omni Channel Customer Ordering (OCCO) was a large programme of changes to re-platform and align several customer ordering systems, enabling a more consistent experience for customers who shop using a mixture of selling channels (shop, online, app, telephone). &nbsp; I had several roles on this programme, the most significant being lead of the high-level design team, managing the work of business analysts, solution architects and solution designers. &nbsp; My challenges and achievements included:
 * chair of the design authority group, facilitating a large meeting of people with conflicting needs / opinions to resolve issues
 * defining the solution design methodology for large programmes, getting it recognised as a discipline within the department and mentoring solution designers
 * solution design across incompatible systems, while minimising customisation of off-the-shelf packages
