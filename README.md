@@ -2,7 +2,7 @@
 
 ### Employment History
 #### 1996 - present: &nbsp; John Lewis Partnership
-Some people are surprised by 23 years in 1 company but anyone who has worked at John Lewis won't be. &nbsp; I've enjoyed job satisfaction from roles in a variety of technology and business areas and, being a Partner, feel a great sense of ownership, responsibility and pride. &nbsp; Plus, after 25 years, I'll get a 6 month holiday!
+Some people are surprised by 23 years in 1 company but anyone who has worked at John Lewis won't be. &nbsp; I've enjoyed job satisfaction from roles in a variety of business and technology areas and, being a Partner, feel a great sense of ownership, responsibility and pride. &nbsp; Plus, after 25 years, I'll get a 6 month holiday!
 
 I joined as a trainee programmer on the IT graduate scheme and progressed up to a team lead. &nbsp; As part of an organisational transition to new ways of working, I'm taking the opportunity to go back to my coding roots by becoming a product engineer, focussing on web development.
 
