@@ -18,6 +18,7 @@ Omni Channel Customer Ordering was a large programme of changes to re-platform a
 * solution design across incompatible systems, while minimising customisation of off-the-shelf packages
 * balancing the need for input from people with knowledge of various different systems and technologies versus ramping up the team too early, to manage costs
 * planning the work of my team to optimise flow of output to downsteam teams with conflicting deadlines
+* re-planning after budget cuts
 * business modelling of a complex domain using Sparx Enterprise Architect
 
 ###### USA...
@@ -40,13 +41,17 @@ Lead developer responsible for development and operational support of systems us
 #### Extra responsibilities
 
 ##### Tech Trends Radar
-...
+After a period of significant growth, the John Lewis IT department now encompasses many teams working in different technology areas and it is harder for people to have an understanding of developments outside of the area they work in.  The department was looking for ways to foster a learning culture.  I led an initiative to introduce an internal radar to publicise changing trends in the tools, technologies and techniques we use.  This gave me experience in:
+* putting myself out there as the face of an initiative
+* presenting to large groups
+* facilitating large workshops to agree the content of each issue of the radar
+* learning about technologies I'm not close to
+* building momentum and breaking apathy
 
 ##### Line management
-...
 
 ##### Tech Council
-...
+I'm a member of John Lewis's tech council, which is a group of people with experience in various development roles who .......
 
 ##### Tutor
 ...
