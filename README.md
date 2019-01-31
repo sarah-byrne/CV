@@ -41,7 +41,7 @@ Lead developer responsible for development and operational support of systems us
 #### Extra responsibilities
 
 ##### Tech Trends Radar
-After a period of significant growth, the John Lewis IT department now encompasses many teams working in different technology areas and it is harder for people to have an understanding of developments outside of the area they work in. &nbsp; The department was looking for ways to foster a learning culture. &nbsp; I led an initiative to introduce an internal radar to publicise changing trends in the tools, technologies and techniques we use. &nbsp; This gave me experience in:
+After a period of significant growth, the John Lewis IT department now encompasses many teams working in different technology areas and it became harder for people to have an understanding of developments outside of the area they work in. &nbsp; The department was looking for ways to foster a learning culture. &nbsp; I led an initiative to introduce an internal radar to publicise changing trends in the tools, technologies and techniques we use. &nbsp; This gave me experience in:
 * putting myself out there as the face of an initiative
 * presenting to large groups
 * facilitating large workshops to agree the content of each issue of the radar
