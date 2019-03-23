@@ -63,4 +63,4 @@ I was a tutor to trainees learning to code in COBOL / DB2 as part of the graduat
 BSc Mathematics (2:1)
 
 ### Hobbys
-Live music, theatre, cinema, aqua aerobics, cryptic crosswords
+Live music, theatre, cinema, cryptic crosswords, aqua aerobics & swimming
